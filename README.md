@@ -3,12 +3,19 @@ COVID19-Case Surveillance Public Use Data
 
 # Introduction
 
+COVID-19 is the largest public health crisis the U.S. has faced in the last century, and timely and accurate surveillance data are imperative to inform prevention strategies, health policies, and resource allocations for local and national responses.
+
+As the pandemic evolved and the need for ongoing, sustainable national case surveillance data became evident, CDC built on the existing National Notifiable Diseases Surveillance System (NNDSS), which has provided case surveillance data for decades. As a result of ongoing analyses of national COVID-19 case surveillance data, the US response has been guided in identifying disproportionately affected populations. Case surveillance data have been used to monitor disease incidence, identify underlying medical conditions associated with the disease, and offer guidance on prevention.
+
+Summarizing the purpose, limitations, and completeness of national COVID-19 case surveillance data may help improve these data over time and aid in their interpretation. To describe regional variations in estimated sensitivity of case ascertainment and completeness in COVID-19 case surveillance data, we compared counts of COVID-19 cases and deaths from case surveillance data with aggregate counts of cases and deaths compiled by CDC from jurisdictions during April 5–September 30, 2020. We also analyzed case surveillance data to describe geographic and temporal trends in the proportion of cases with complete data on selected demographic characteristics, underlying medical conditions, and outcomes
+
+
 
 # Statement of the Problem
 
 This study was carried out to analyze Covid-19 data, which may help us determine how cases and surveillance improve from time to time in the midst of the pandemic.
 
-The following questions will be the sole focus of this research. :
+The following questions will be the sole focus of this research:
 
 1.) What exactly is a covid-19 case, including a "probable case?"
 

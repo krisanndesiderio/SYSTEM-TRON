@@ -52,4 +52,11 @@ As the public health response to the COVID-19 pandemic continues to evolve, rout
 
 The priority questions outline the critical scientific gaps identified by the CDC COVID-19 Response, CDC programs, and other public health partners that, if addressed, could provide significant, timely, and measurable improvements in public health outcomes.
 
+# References Used
+
+1. https://journals.sagepub.com/doi/full/10.1177/00333549211026817?fbclid=IwAR2mzyjaNXjk_YIyHWKOU4zBneuSDjCt7tGhDN6kiEd493DWcsVr2E0E848
+
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302472/
+
+
 

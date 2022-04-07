@@ -65,3 +65,7 @@ The priority questions outline the critical scientific gaps identified by the CD
 5. https://journals.sagepub.com/doi/full/10.1177/00333549211026817
 
 6. https://www.unicef-irc.org/publications/1098-digital-contact-tracing-surveillance-covid-19-response-child-specific-issues-irb.html
+
+7. https://catalog.data.gov/sq/dataset/covid-19-case-surveillance-public-use-data-0354e
+
+8. https://dev.socrata.com/foundry/data.cdc.gov/vbim-akqf

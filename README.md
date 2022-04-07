@@ -58,5 +58,8 @@ The priority questions outline the critical scientific gaps identified by the CD
 
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302472/
 
+3. https://scholar.google.com/scholar?cluster=17314178568537979505&hl=en&as_sdt=2005&sciodt=0,5#d=gs_qabs&u=%23p%3DcTpjc6xRSPAJ
+
+4. https://www.cdc.gov/coronavirus/2019-ncov/downloads/global-covid-19/surveillance-strategies-human-infection.pdf
 
 

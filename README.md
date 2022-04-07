@@ -69,3 +69,8 @@ The priority questions outline the critical scientific gaps identified by the CD
 7. https://catalog.data.gov/sq/dataset/covid-19-case-surveillance-public-use-data-0354e
 
 8. https://dev.socrata.com/foundry/data.cdc.gov/vbim-akqf
+
+9. https://guides.libraries.emory.edu/c.php?g=1032085&p=7480666
+
+10. https://scholar.google.com.ph/scholar?q=public+health+surveillance+research&hl=en&as_sdt=0&as_vis=1&oi=scholart
+

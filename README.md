@@ -62,4 +62,6 @@ The priority questions outline the critical scientific gaps identified by the CD
 
 4. https://www.cdc.gov/coronavirus/2019-ncov/downloads/global-covid-19/surveillance-strategies-human-infection.pdf
 
+5. https://journals.sagepub.com/doi/full/10.1177/00333549211026817
 
+6. https://www.unicef-irc.org/publications/1098-digital-contact-tracing-surveillance-covid-19-response-child-specific-issues-irb.html

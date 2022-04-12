@@ -48,9 +48,9 @@ Over the course of the COVID-19 pandemic, CDC has maintained a count of US cases
 
 The expected output of our topic entitled COVID19-Case Surveillance Public Use Data. 
 
-As the public health response to the COVID-19 pandemic continues to evolve, routine identification and dissemination of priority COVID-19 public health science questions can promote efforts by the Centers for Disease Control and Prevention (CDC) and public health partners to fill critical scientific gaps and inform evidence-based decision-making through public health surveillance and epidemiologic research. 
+Regular identification and dissemination of priority covid-19 science questions for public health will help the Centers for Disease Control and Prevention and its partners in public health fill critical science gaps and make decision evidence by looking at pandemic health of covid-19 altering
 
-The priority questions outline the critical scientific gaps identified by the CDC COVID-19 Response, CDC programs, and other public health partners that, if addressed, could provide significant, timely, and measurable improvements in public health outcomes.
+Reveals the priority questions the key scientists identified by the CDC COVID-19 programs for the CDC and other public health stakeholders to be addressed. often result in casual, timely and consistent improvements that can improve public health outcomes.
 
 # References Used
 

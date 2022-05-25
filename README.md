@@ -1,6 +1,12 @@
 # SYSTEM-TRON
 COVID19-Case Surveillance Public Use Data
 
+# Sustainable Development Goals (SDG)
+
+Goal 4: Ensure healthy lives and promote well-being for all at all ages
+
+![E_SDG_goals_icons-individual-rgb-03](https://user-images.githubusercontent.com/102895150/170187363-b7597440-a0dd-4860-a952-edcc2771a0f4.png)
+
 # Introduction
 
 COVID-19 is not only a global pandemic and public health crisis that emerged last 2019, but it has also had a significant impact on the global economy and markets, including establishments and other businesses where we, the people, used to go.This virus outbreak has been therefor a long time, yet we are still in the grip of a pandemic.

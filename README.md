@@ -5,7 +5,7 @@ COVID19-Case Surveillance Public Use Data
 
 Goal 4: Ensure healthy lives and promote well-being for all at all ages
 
-![E_SDG_goals_icons-individual-rgb-03](https://user-images.githubusercontent.com/102895150/170187363-b7597440-a0dd-4860-a952-edcc2771a0f4.png)
+< img src = "https://user-images.githubusercontent.com/102895150/170187363-b7597440-a0dd-4860-a952-edcc2771a0f4.png" height="250" width="400"
 
 # Introduction
 

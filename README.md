@@ -52,7 +52,7 @@ To the future researchers, they will be benefited with the study because there w
 
     The expected output of our topic entitled COVID19-Case Surveillance Public Use Data. 
 
-Regular identification and dissemination of priority covid-19 science questions for public health will help the Centers for Disease Control and Prevention and its partners in public health fill critical science gaps and make decision evidence by looking at pandemic health of covid-19 altering
+Regular identification and dissemination of priority Covid-19 science questions for public health will help the Centers for Disease Control and Prevention and its partners in public health fill critical science gaps and make decision evidence by looking at pandemic health of Covid-19 altering
 
 Reveals the priority questions the key scientists identified by the CDC COVID-19 programs for the CDC and other public health stakeholders to be addressed. often result in casual, timely and consistent improvements that can improve public health outcomes.
 

@@ -33,7 +33,9 @@ The following questions will be the sole focus of this research:
 
 # Significance of the Problem 
 
-The present study is significant to the following personnel involved in the system of the Alitagtag, Batangas:
+The present study is significant to the following personnel involved in the system;
+  
+  The main purpose of this system is to help further decrease and eradicate the number of covid positive, so that the economy would continue to reopen, everything will go back to normal and strive for a covid free and safer community. By doing this, it will help protect purselves, and our family to getting enough help, support and information from the local government during isolation when notified. Some of the benificiaries and recipients are: 
 
 To the Government, this will be used as the  medium to help officials understand where, when, and in which populations an illness is transmitted.
 
@@ -45,12 +47,12 @@ To the future researchers, they will be benefited with the study because there w
 
 # Methods
 
-Over the course of the COVID-19 pandemic, CDC has maintained a count of US cases and deaths by both aggregate and individual means (case surveillance). The CDC collects aggregate counts from jurisdiction websites using both manual and automated means, including a survey of jurisdiction on a daily basis. This is done by calculating the number of COVID-19 cases and deaths occurring in each jurisdiction per day and publishing the information online. During the pandemic, the process of gathering case surveillance data changed (supplementary figure available from authors upon request). To facilitate data gathering from jurisdictions, the CDC initiated an outbreak response database beginning January 22, 2020. The researchers analyzed case surveillance data to determine the proportion of case surveillance records with complete information on selected characteristics, such as demographics, underlying medical conditions, symptoms, and outcome per month by HHS region. And also conducted analysis as part of public health surveillance activities, and CDC determined this project to be exempt from human subjects approval.
+    Over the course of the COVID-19 pandemic, CDC has maintained a count of US cases and deaths by both aggregate and individual means (case surveillance). The CDC collects aggregate counts from jurisdiction websites using both manual and automated means, including a survey of jurisdiction on a daily basis. This is done by calculating the number of COVID-19 cases and deaths occurring in each jurisdiction per day and publishing the information online. During the pandemic, the process of gathering case surveillance data changed (supplementary figure available from authors upon request). To facilitate data gathering from jurisdictions, the CDC initiated an outbreak response database beginning January 22, 2020. The researchers analyzed case surveillance data to determine the proportion of case surveillance records with complete information on selected characteristics, such as demographics, underlying medical conditions, symptoms, and outcome per month by HHS region. And also conducted analysis as part of public health surveillance activities, and CDC determined this project to be exempt from human subjects approval.
 
 
 # Expected Output
 
-The expected output of our topic entitled COVID19-Case Surveillance Public Use Data. 
+    The expected output of our topic entitled COVID19-Case Surveillance Public Use Data. 
 
 Regular identification and dissemination of priority covid-19 science questions for public health will help the Centers for Disease Control and Prevention and its partners in public health fill critical science gaps and make decision evidence by looking at pandemic health of covid-19 altering
 

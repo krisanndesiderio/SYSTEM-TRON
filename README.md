@@ -32,9 +32,7 @@ The following questions will be the sole focus of this research:
 
 
 # Significance of the Problem 
-
-The present study is significant to the following personnel involved in the system;
-  
+ 
   The main purpose of this system is to help further decrease and eradicate the number of covid positive, so that the economy would continue to reopen, everything will go back to normal and strive for a covid free and safer community. By doing this, it will help protect purselves, and our family to getting enough help, support and information from the local government during isolation when notified. Some of the benificiaries and recipients are: 
 
 To the Government, this will be used as the  medium to help officials understand where, when, and in which populations an illness is transmitted.

@@ -3,13 +3,13 @@ COVID19-Case Surveillance Public Use Data
 
 # Sustainable Development Goals (SDG)
 
-Goal 4: Ensure healthy lives and promote well-being for all at all ages
+Goal 3: Ensure healthy lives and promote well-being for all at all ages
 
 <img src = "https://user-images.githubusercontent.com/102895150/170187363-b7597440-a0dd-4860-a952-edcc2771a0f4.png" width="400" height="250">
 
 # Introduction
 
-COVID-19 is not only a global pandemic and public health crisis that emerged last 2019, but it has also had a significant impact on the global economy and markets, including establishments and other businesses where we, the people, used to go.This virus outbreak has been therefor a long time, yet we are still in the grip of a pandemic.
+COVID-19 is not only a global pandemic and public health crisis that emerged last 2019, but it has also had a significant impact on the global economy and markets, including establishments and other businesses where we, the people, used to go. This virus outbreak has been therefore a long time, yet we are still in the grip of a pandemic.
 
 According to Teutsch, S. (2000), public health surveillance is the systematic, ongoing assessment of the health of a community, based on the collection, interpretation, and use of health data. Surveillance provides information necessary for public health decision making. This text presents an organized approach to planning, developing, and implementing public health surveillance systems.
 As the pandemic evolved and the need for ongoing, sustainable national case surveillance data became evident, CDC built on the existing National Notifiable Diseases Surveillance System (NNDSS), which has provided case surveillance data for decades. As a result of ongoing analyses of national COVID-19 case surveillance data, the US response has been guided in identifying disproportionately affected populations. Case surveillance data have been used to monitor disease incidence, identify underlying medical conditions associated with the disease, and offer guidance on prevention.

@@ -50,11 +50,12 @@ To the future researchers, they will be benefited with the study because there w
 
 # Expected Output
 
-    The expected output of our topic entitled COVID19-Case Surveillance Public Use Data. 
+The expected output of our topic entitled COVID19-Case Surveillance Public Use Data. 
 
 It aims to get the overall data of COVID-19 cases with different race and ethnicity. It also include the gender, age, status of the patient and its CDC report.
 
 Reveals the priority questions the key scientists identified by the CDC COVID-19 programs for the CDC and other public health stakeholders to be addressed. often result in casual, timely and consistent improvements that can improve public health outcomes.
+
 
 # References Used
 

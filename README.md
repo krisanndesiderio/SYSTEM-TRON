@@ -45,8 +45,7 @@ To the future researchers, they will be benefited with the study because there w
 
 # Methods
 
-Over the course of the COVID-19 pandemic, CDC has maintained a count of US cases and deaths by both aggregate and individual means. The CDC collects aggregate counts from websites using both manual and automated. This is done by calculating the number of COVID-19 cases and deaths occurring per day and publishing the information online.The researchers analyzed case surveillance data to determine the proportion of case surveillance records with complete information on selected characteristics, such as demographics, underlying medical conditions, symptoms, and outcome per month by HHS region. And also conducted analysis as part of public health surveillance activities, and CDC determined this project to be exempt from human subjects approval.
-
+Over the course of the COVID-19 pandemic, CDC has maintained a count of US cases and deaths by both aggregate and individual means. The CDC collects aggregate counts from websites using both manual and automated. This is done by calculating the number of COVID-19 cases and deaths occurring per day and publishing the information online.The researchers analyzed case surveillance data to determine the proportion of case surveillance records with complete information on selected characteristics, such as demographics, underlying medical conditions, symptoms, and outcome per month by HHS region.
 
 # Expected Output
 

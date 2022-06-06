@@ -54,6 +54,9 @@ The expected output of our topic entitled COVID19-Case Surveillance Public Use D
 
 -Reveals the priority questions the key scientists identified by the CDC COVID-19 programs for the CDC and other public health stakeholders to be addressed. often result in casual, timely and consistent improvements that can improve public health outcomes.
 
+# Video Presentation
+
+[SYSTEM TRON - Recorded Presentation Link] (https://www.youtube.com/watch?v=PO1CchZU-lY)
 
 # References Used
 

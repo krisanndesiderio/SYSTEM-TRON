@@ -51,6 +51,7 @@ Over the course of the COVID-19 pandemic, CDC has maintained a count of US cases
 The expected output of our topic entitled COVID19-Case Surveillance Public Use Data. 
 
 -It aims to get the overall data of COVID-19 cases in Asia including Philippines, Singapore and China.
+
 -Reveals the priority questions the key scientists identified by the CDC COVID-19 programs for the CDC and other public health stakeholders to be addressed. often result in casual, timely and consistent improvements that can improve public health outcomes.
 
 

@@ -11,8 +11,7 @@ Goal 3: Ensure healthy lives and promote well-being for all at all ages
 
 COVID-19 is not only a global pandemic and public health crisis that emerged last 2019, but it has also had a significant impact on the global economy and markets, including establishments and other businesses where we, the people, used to go. This virus outbreak has been therefore a long time, yet we are still in the grip of a pandemic.
 
-According to Teutsch, S. (2000), public health surveillance is the systematic, ongoing assessment of the health of a community, based on the collection, interpretation, and use of health data. Surveillance provides information necessary for public health decision making. This text presents an organized approach to planning, developing, and implementing public health surveillance systems.
-As the pandemic evolved and the need for ongoing, sustainable national case surveillance data became evident, CDC built on the existing National Notifiable Diseases Surveillance System (NNDSS), which has provided case surveillance data for decades. As a result of ongoing analyses of national COVID-19 case surveillance data, the US response has been guided in identifying disproportionately affected populations. Case surveillance data have been used to monitor disease incidence, identify underlying medical conditions associated with the disease, and offer guidance on prevention.
+According to Teutsch, S. (2000), public health surveillance is the systematic, ongoing assessment of the health of a community, based on the collection, interpretation, and use of health data. Surveillance provides information necessary for public health decision making. This text presents an organized approach to planning, developing, and implementing public health surveillance systems. As the pandemic evolved and the need for ongoing, sustainable national case surveillance data became evident, CDC built on the existing National Notifiable Diseases Surveillance System (NNDSS), which has provided case surveillance data for decades. As a result of ongoing analyses of national COVID-19 case surveillance data, the US response has been guided in identifying disproportionately affected populations. Case surveillance data have been used to monitor disease incidence, identify underlying medical conditions associated with the disease, and offer guidance on prevention.
 
 Summarizing the objective, constraints, and completeness of national COVID-19 case surveillance data could assist enhance and analyze these data over time. We compared counts of COVID-19 cases and deaths from case surveillance data with aggregate counts of cases and deaths compiled by the CDC from jurisdictions between April 5 and September 30, 2020, to describe regional variations in estimated sensitivity of case ascertainment and completeness in COVID-19 case surveillance data. We also looked at case surveillance data to see if there were any geographic or temporal trends in the proportion of cases with complete information on demographics, underlying medical problems, and outcomes.
 
@@ -51,9 +50,8 @@ Over the course of the COVID-19 pandemic, CDC has maintained a count of US cases
 
 The expected output of our topic entitled COVID19-Case Surveillance Public Use Data. 
 
-It aims to get the overall data of COVID-19 cases with different race and ethnicity. It also include the gender, age, status of the patient and its CDC report.
-
-Reveals the priority questions the key scientists identified by the CDC COVID-19 programs for the CDC and other public health stakeholders to be addressed. often result in casual, timely and consistent improvements that can improve public health outcomes.
+-It aims to get the overall data of COVID-19 cases in Asia including Philippines, Singapore and China.
+-Reveals the priority questions the key scientists identified by the CDC COVID-19 programs for the CDC and other public health stakeholders to be addressed. often result in casual, timely and consistent improvements that can improve public health outcomes.
 
 
 # References Used
